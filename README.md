@@ -58,5 +58,5 @@ Coming soon.
 
 ### Connect
 
-- [LinkedIn](www.linkedin.com/in/bahar-monfared)
+- [LinkedIn](https://www.linkedin.com/in/bahar-monfared/)
 - [GitHub](https://github.com/baharmonfared)
